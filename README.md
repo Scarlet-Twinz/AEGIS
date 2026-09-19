@@ -69,3 +69,9 @@ go vet ./...
 ## Deliberate boundaries
 
 This is intentionally a lightweight single-process edge component: limits and metrics reset on restart, there is no TLS termination, and upstream health/circuit breaking are left to a load balancer or a future extension. That keeps the core small enough to understand while retaining real network and concurrency behavior.
+
+## Project Links
+
+- **Repository:** https://github.com/Scarlet-Twinz/AEGIS
+- **Author:** Anthony Emmanuella Mmasinachi
+- **GitHub:** https://github.com/Scarlet-Twinz
