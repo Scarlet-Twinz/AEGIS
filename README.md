@@ -1,4 +1,4 @@
-#  AEGIS
+# AEGIS
 
 **A small, concurrent HTTP reverse proxy with the operational features that make edge services useful.** Built entirely with Go's standard library.
 
