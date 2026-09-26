@@ -24,6 +24,13 @@ client ──► AEGIS :8080 ──► selected upstream
 
 ## Run it
 
+Clone the repository:
+
+```bash
+git clone https://github.com/Scarlet-Twinz/AEGIS.git
+cd AEGIS
+```
+
 Start an upstream service on port 9000, then:
 
 ```bash
